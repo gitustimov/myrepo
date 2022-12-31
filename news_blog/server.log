@@ -6,7 +6,7 @@ Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 2857
 "GET /post/2/ HTTP/1.1" 200 3807
 "GET / HTTP/1.1" 200 2857
-"GET /post/new/ HTTP/1.1" 200 1608
+"GET /post/new/ HTTP/1.1" 200 160
 "GET / HTTP/1.1" 200 2857
 "GET /post/4/ HTTP/1.1" 200 6620
 "GET / HTTP/1.1" 200 2857
